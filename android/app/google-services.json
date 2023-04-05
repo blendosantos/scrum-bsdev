@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182163309139",
+    "firebase_url": "https://scrum-poker-bs-default-rtdb.firebaseio.com",
+    "project_id": "scrum-poker-bs",
+    "storage_bucket": "scrum-poker-bs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182163309139:android:47b44f9d294ea2ae063ca6",
+        "android_client_info": {
+          "package_name": "br.com.bsdev.scrumpoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182163309139-regpjcu3juruh2fn85p3b9fca98aeo2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeekHJBVw4iM5utgdnqx76JZylf7a0J9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182163309139-dku9q13fnbpla6n29htlvplosrcapblt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182163309139-hl680e43cpgkuja6nsn0q6or3ugtqbq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.bsdev.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
