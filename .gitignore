@@ -67,3 +67,4 @@ doc/api/
 
 # Config project
 lib/firebase_options.dart
+.flutter-plugins-dependencies
